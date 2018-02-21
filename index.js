@@ -1,6 +1,6 @@
 function shout(String){
   return String.toUpperCase()
 }
-function wishper(String){
+function whisper(String){
   return String.toLowerCase()
 }
